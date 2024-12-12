@@ -224,3 +224,4 @@ if __name__ == "__main__":
         print("Usage: uv run autolysis.py <dataset.csv>")
         sys.exit(1)
     main(sys.argv[1])
+    main(sys.argv[1])
