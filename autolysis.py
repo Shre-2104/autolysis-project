@@ -9,6 +9,8 @@
 #   "matplotlib",
 # ]
 # ///
+ AIPROXY_TOKEN="eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjMwMDA2NTFAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.S7TfJfUCxuutJ6NvXkT0aVs2VHWJes-7Jjp5GHHlgdM"
+
 
 import os
 import sys
